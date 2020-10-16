@@ -1,2 +1,5 @@
+var message = "Hello!";
+console.log(message);
 
-console.log("Hello from var.js");
+message = "Hello from Javscript Basics";
+console.log(message);
